@@ -1,7 +1,7 @@
 {
   "name": "red-wavy-underline",
   "main": "./lib/red-wavy-underline",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Creates a red wavy underline under misspelled words",
   "repository": "https://github.com/lee-dohm/red-wavy-underline",
   "license": "MIT",
