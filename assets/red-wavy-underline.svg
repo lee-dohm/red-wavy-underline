@@ -1,0 +1,19 @@
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <defs>
+    <symbol id="S">
+      <path id="u" d="M 5 60 C 20 100 25 20 40 60" />
+      <use transform="translate(35,0)" xlink:href="#u"/>
+      <use transform="translate(70,0)" xlink:href="#u"/>
+    </symbol>
+  </defs>
+
+  <use x="60"
+       y="0"
+       transform="scale(2, 4)"
+       width="200"
+       height="100"
+       fill="none"
+       stroke-width="2"
+       stroke="red"
+       xlink:href="#S"/>
+</svg>
