@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **master**
+
+* Create a `.red-wavy-underline` mixin so that people can easily include this in their own stylesheets for their own purposes
+
 ## **v0.1.2** &mdash; *Released: 1 July 2014*
 
 * Truly remove the old dashed underline and create some visual separation between the wavy underline and the text it is underlining
