@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## **master**
+## **v0.2.0** &mdash; *Released 5 July 2014*
 
-* Create a `.red-wavy-underline` mixin so that people can easily include this in their own stylesheets for their own purposes
+* Create a `.red-wavy-underline` mixin so that people can easily include this in their stylesheets for their own purposes
 
 ## **v0.1.2** &mdash; *Released: 1 July 2014*
 
