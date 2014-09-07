@@ -1,6 +1,6 @@
 # Red Wavy Underline
 
-Places a red wavy underline (RWU) under misspelled words instead of the default dashed underline.
+This package changes the style of underline used by the [spell-check package][spell-check] to highlight spelling errors to the red, wavy underline. This package does *not* do any spell checking by itself.
 
 ![Screenshot](https://raw.githubusercontent.com/lee-dohm/red-wavy-underline/master/spelling-example.png)
 
@@ -8,7 +8,7 @@ Places a red wavy underline (RWU) under misspelled words instead of the default 
 
 You can also use the RWU for other purposes with the new mixin provided in the stylesheet. For example, you can add the RWU to all comments by adding the following to your `styles.less`:
 
-```less
+```LESS
 @import "packages/red-wavy-underline/stylesheets/red-wavy-underline";
 
 .editor .comment {
@@ -17,3 +17,5 @@ You can also use the RWU for other purposes with the new mixin provided in the s
 ```
 
 ![Mixin Example](https://raw.githubusercontent.com/lee-dohm/red-wavy-underline/master/mixin-example.png)
+
+[spell-check]: https://atom.io/packages/spell-check
