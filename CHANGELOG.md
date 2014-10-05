@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.2.1** &mdash; *Released: 5 October 2014*
+
+* :bug: #6 &mdash; Updated image with a transparent background so it works equally well in light or dark syntax themes
+
 ## **v0.2.0** &mdash; *Released 5 July 2014*
 
 * Create a `.red-wavy-underline` mixin so that people can easily include this in their stylesheets for their own purposes
