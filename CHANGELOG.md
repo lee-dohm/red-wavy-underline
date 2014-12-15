@@ -1,8 +1,12 @@
 # CHANGELOG
 
+## **v0.2.2** &mdash; *Released: 14 December 2014*
+
+* :bug: [#7](https://github.com/lee-dohm/red-wavy-underline/issues/7) &mdash; Updated to work with the Shadow DOM
+
 ## **v0.2.1** &mdash; *Released: 5 October 2014*
 
-* :bug: #6 &mdash; Updated image with a transparent background so it works equally well in light or dark syntax themes
+* :bug: [#6](https://github.com/lee-dohm/red-wavy-underline/issues/6) &mdash; Updated image with a transparent background so it works equally well in light or dark syntax themes
 
 ## **v0.2.0** &mdash; *Released 5 July 2014*
 
