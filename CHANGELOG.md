@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.2.3** &mdash; *Released: 1 February 2015*
+
+* Fixed last remaining deprecation
+
 ## **v0.2.2** &mdash; *Released: 14 December 2014*
 
 * :bug: [#7](https://github.com/lee-dohm/red-wavy-underline/issues/7) &mdash; Updated to work with the Shadow DOM
