@@ -18,4 +18,9 @@ You can also use the RWU for other purposes with the new mixin provided in the s
 
 ![Mixin Example](https://raw.githubusercontent.com/lee-dohm/red-wavy-underline/master/mixin-example.png)
 
+## Copyright
+
+Copyright &copy; 2014-2015 by [Lee Dohm](http://www.lee-dohm.com) and [Lifted Studios](http://www.liftedstudios.com). See [LICENSE] for details.
+
+[LICENSE]: https://github.com/lee-dohm/red-wavy-underline/blob/master/LICENSE.md
 [spell-check]: https://atom.io/packages/spell-check
