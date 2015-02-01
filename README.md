@@ -9,9 +9,9 @@ This package changes the style of underline used by the [spell-check package][sp
 You can also use the RWU for other purposes with the new mixin provided in the stylesheet. For example, you can add the RWU to all comments by adding the following to your `styles.less`:
 
 ```LESS
-@import "packages/red-wavy-underline/stylesheets/red-wavy-underline";
+@import "packages/red-wavy-underline/styles/red-wavy-underline";
 
-.editor .comment {
+.editor .comment, atom-text-editor::shadow .comment {
   .red-wavy-underline;
 }
 ```
