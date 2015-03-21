@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.2.5** &mdash; *Released: 20 March 2015*
+
+* Fix another style deprecation
+
 ## **v0.2.4** &mdash; *Released: 1 February 2015*
 
 * Updated documentation for Atom 1.0 API changes

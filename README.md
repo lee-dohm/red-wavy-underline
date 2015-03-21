@@ -11,7 +11,7 @@ You can also use the RWU for other purposes with the new mixin provided in the s
 ```LESS
 @import "packages/red-wavy-underline/styles/red-wavy-underline";
 
-.editor .comment, atom-text-editor::shadow .comment {
+atom-text-editor::shadow .comment {
   .red-wavy-underline;
 }
 ```
