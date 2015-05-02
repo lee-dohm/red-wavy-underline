@@ -1,4 +1,4 @@
-# Red Wavy Underline
+# Red Wavy Underline [![Dependency Status](https://david-dm.org/lee-dohm/red-wavy-underline.svg)](https://david-dm.org/lee-dohm/red-wavy-underline)
 
 This package changes the style of underline used by the [spell-check package][spell-check] to highlight spelling errors to the red, wavy underline. This package does *not* do any spell checking by itself.
 
@@ -6,9 +6,9 @@ This package changes the style of underline used by the [spell-check package][sp
 
 ## Using the RWU Style
 
-You can also use the RWU for other purposes with the new mixin provided in the stylesheet. For example, you can add the RWU to all comments by adding the following to your `styles.less`:
+You can also use the RWU for other purposes with the mixin provided in the stylesheet. For example, you can add the RWU to all comments by adding the following to your `styles.less`:
 
-```LESS
+```less
 @import "packages/red-wavy-underline/styles/red-wavy-underline";
 
 atom-text-editor::shadow .comment {

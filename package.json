@@ -1,12 +1,19 @@
 {
   "name": "red-wavy-underline",
+  "author": "Lee Dohm <lee@lee-dohm.com>",
   "main": "./lib/red-wavy-underline",
   "version": "0.2.5",
   "description": "Changes the style of underline used by the spell-check package",
+  "keywords": [
+    "red",
+    "wavy",
+    "underline",
+    "style"
+  ],
   "repository": "https://github.com/lee-dohm/red-wavy-underline",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=0.196.0 <2.0.0"
   },
   "dependencies": {}
 }
