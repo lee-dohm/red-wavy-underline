@@ -1,4 +1,8 @@
-# Red Wavy Underline [![Dependency Status](https://david-dm.org/lee-dohm/red-wavy-underline.svg)](https://david-dm.org/lee-dohm/red-wavy-underline)
+# Red Wavy Underline
+
+[![Package Version](https://img.shields.io/apm/v/red-wavy-underline.svg)](https://atom.io/packages/red-wavy-underline)
+[![Package Downloads](https://img.shields.io/apm/dm/red-wavy-underline.svg)](https://atom.io/packages/red-wavy-underline)
+[![Dependency Status](https://david-dm.org/lee-dohm/red-wavy-underline.svg)](https://david-dm.org/lee-dohm/red-wavy-underline)
 
 This package changes the style of underline used by the [spell-check package][spell-check] to highlight spelling errors to the red, wavy underline. This package does *not* do any spell checking by itself.
 
