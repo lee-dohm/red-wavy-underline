@@ -13,7 +13,7 @@
   "repository": "https://github.com/lee-dohm/red-wavy-underline",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.196.0 <2.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   },
   "dependencies": {}
 }
