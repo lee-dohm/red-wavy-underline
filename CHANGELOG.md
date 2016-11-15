@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.3.2** &mdash; *Released: 2016-11-15*
+
+* [PR #11](https://github.com/lee-dohm/red-wavy-underline/pull/11) by [@simurai](https://github.com/simurai) - Real, honest-to-goodness fix for the Shadow DOM removal
+
 ## **v0.3.1** &mdash; *Released: 2016-10-19*
 
 * Change the styles to work [without the Shadow DOM](https://github.com/atom/atom/pull/12903)
