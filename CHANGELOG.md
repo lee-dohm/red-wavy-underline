@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## **v0.3.3** &mdash; *Released: 2017-04-08*
+
+* [PR #12](https://github.com/lee-dohm/red-wavy-underline/pull/12) by [@1000ch](https://github.com/1000ch) - Compressed the red wavy underline image for faster loading
+
 ## **v0.3.2** &mdash; *Released: 2016-11-15*
 
 * [PR #11](https://github.com/lee-dohm/red-wavy-underline/pull/11) by [@simurai](https://github.com/simurai) - Real, honest-to-goodness fix for the Shadow DOM removal
