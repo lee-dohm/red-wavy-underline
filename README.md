@@ -24,7 +24,7 @@ You can also use the RWU for other purposes with the mixin provided in the style
 
 ## Copyright
 
-Copyright &copy; 2014-2016 by [Lee Dohm](http://www.lee-dohm.com) and [Lifted Studios](http://www.liftedstudios.com). See [LICENSE] for details.
+Copyright &copy; 2014-2017 by [Lee Dohm](http://www.lee-dohm.com) and [Lifted Studios](http://www.liftedstudios.com). See [LICENSE] for details.
 
 [LICENSE]: https://github.com/lee-dohm/red-wavy-underline/blob/master/LICENSE.md
 [spell-check]: https://atom.io/packages/spell-check
